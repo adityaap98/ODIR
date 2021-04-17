@@ -9,5 +9,6 @@ University of Calgary,
 Alberta, Canada.
 
 ## Code running instructions
-Step by step directions for code reproducibility: [Code running instructions](https://colab.research.google.com/drive/10ZzGqLvGYIkmoZCnaTByNjZHnGeHdpcB)  
+Step by step directions for code reproducibility: [Instructions_645.ipynb](https://colab.research.google.com/drive/10ZzGqLvGYIkmoZCnaTByNjZHnGeHdpcB)  
 The code can be found here: [ENEL_645_Project_Code.ipynb](https://colab.research.google.com/drive/1oVh53jWPXuqGPL71myaGJyipydQ-d56k)
+Saved models can be found here: [ODIR_Models](https://drive.google.com/drive/folders/1NKmp5iUlgyB1hTBK2g3_eZ0z-ke3uyYT?usp=sharing)
